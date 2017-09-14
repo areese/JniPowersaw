@@ -11,3 +11,8 @@ bin/
 
 # skip anything in the default package as it's useless
 src/main/java/*.java
+
+.idea
+*.iml
+
+gradle/
